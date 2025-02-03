@@ -1,6 +1,6 @@
 # OpenAI Chat Bot
 
-A simple Python chatbot that uses OpenAI's API to interact with GPT models.
+A simple Python chatbot that uses OpenAI's API to interact with GPT models
 
 ## Requirements
 
@@ -48,7 +48,7 @@ The chatbot will:
 
 ├── main.py # Main application file
 ├── .env # Environment variables (not tracked in git)
-├── .env.example # Example environment variables
+├── .env.example # Example environment variables 
 ├── .gitignore # Git ignore file
 ├── README.md # This file
 └── requirements.txt # Project dependencies
@@ -57,10 +57,6 @@ The chatbot will:
 ## Contributing
 
 Feel free to submit issues and enhancement requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 
