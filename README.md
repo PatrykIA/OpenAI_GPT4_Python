@@ -3,31 +3,31 @@
 A simple Python chatbot that uses OpenAI's API to interact with GPT models
 
 ## Requirements
-
+```
 - Python 3.12 or newer
 - OpenAI API key
-
+```
 ## Installation
 
 1. Clone the repository:
-
+```
 git clone https://github.com/PatrykIA/OpenAI_GPT4_Python
 cd REPO_NAME
-
+```
 2. Install required dependencies:
-   
+```
 pip install -r requirements.txt
-
+```
 4. Configure environment variables:
    - Copy `.env.example` to `.env`
    - Open `.env` file and enter your OpenAI API key
 
 ## Environment Variables
-
+```
 Create a `.env` file in the root directory with the following variable:
 
 OPENAI_API_KEY=your_api_key_here
-
+```
 ## Usage
 
 Run the application using:
